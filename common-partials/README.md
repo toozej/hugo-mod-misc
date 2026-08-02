@@ -7,6 +7,6 @@ Add it to your site config:
 ```toml
 [module]
 [[module.imports]]
-path="github.com/bep/hugo-mod-misc/common-partials"
+path="github.com/toozej/hugo-mod-misc/common-partials"
 ```
 

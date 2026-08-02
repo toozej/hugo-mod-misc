@@ -7,7 +7,7 @@ Add it to your site config:
 ```toml
 [module]
 [[module.imports]]
-path="github.com/bep/hugo-mod-misc/render-hooks"
+path="github.com/toozej/hugo-mod-misc/render-hooks"
 ```
 
 Then run `hugo`.
